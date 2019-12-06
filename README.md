@@ -1,4 +1,4 @@
-To create a GraphQL proyect you need install npx:
+To create a GraphQL proyect you need install npx:<br/>
     npm i -g npx
 
 Then:
