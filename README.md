@@ -1,12 +1,12 @@
 To create a GraphQL proyect you need install npx:<br/>
     npm i -g npx
 
-Then:
+Then:<br/>
     npx license mit > LICENSE && npx gitignore node && git init && npm init -y
 
-Last:
+Last:<br/>
     npm i graphql
 
-installing server:
+installing server:<br/>
     npm i express express-graphql
     npm i nodemon -D
