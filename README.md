@@ -1,2 +1,2 @@
-npm i dotenv
+npm i dotenv /
 npm i mongo
