@@ -1,1 +1,2 @@
-npm i dotenv
+Mutations: 
+    Allow insert data
