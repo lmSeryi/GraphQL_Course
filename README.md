@@ -7,5 +7,5 @@ Creating custom types
 Example:
 
     type Course {
-        title: String!
+        title: String
     }
