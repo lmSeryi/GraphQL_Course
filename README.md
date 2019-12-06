@@ -1,1 +1,1 @@
-install graphql-tools
+npm i dotenv
