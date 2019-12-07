@@ -1,2 +1,1 @@
-Mutations: 
-    Allow insert data
+npm i cors
